@@ -9,7 +9,7 @@ This repository will contain the source code, pretrained models, and datasets as
 **"Origin-Tea: A Lightweight Model for Tea Geographical Origin Recognition Based on Phenotypic Features"**  
 *(Submitted to [Nature Communication], under review)*
 
-We propose **Origin-Tea**, a compact and high-performance neural network designed for classifying the geographic origin of tea leaves. The model is tailored to handle diverse image acquisition modalities, including both camera and scanner-based data.
+We propose **Origin-Tea**, a compact and high-performance neural network designed for classifying the geographic origin of tea leaves. 
 
 ## 🔒 Current Status
 
