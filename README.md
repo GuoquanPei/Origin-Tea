@@ -1,4 +1,4 @@
-# Origin-Tea: Lightweight and Generalizable Model for Tea Provenance Identification
+# Origin-Tea: A Lightweight Model for Tea Geographical Origin Recognition Based on Phenotypic Features
 
 > 🚧 **This repository is under preparation. Code and data will be released upon paper acceptance. Stay tuned!**
 
