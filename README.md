@@ -1,4 +1,4 @@
-# Origin-Tea: A Lightweight Model for Tea Geographical Origin Recognition Based on Phenotypic Features
+# Phenotypic Feature-Based Identification of Tea Geographical Origin Using Lightweight Deep Learning
 
 > 🚧 **This repository is under preparation. Code and data will be released upon paper acceptance. Stay tuned!**
 
