@@ -1,6 +1,6 @@
 # Phenotypic Feature-Based Identification of Tea Geographical Origin Using Lightweight Deep Learning
 
-> 🚧 **This repository is under preparation. Code and data will be released upon paper acceptance. Stay tuned!**
+> 🚧 **This repository is under preparation. The code and data will be made publicly available upon the paper's acceptance. Stay tuned!**
 
 ## 📌 Overview
 
