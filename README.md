@@ -1,33 +1,41 @@
 # Phenotypic Feature-Based Identification of Tea Geographical Origin Using Lightweight Deep Learning
 
-> 🚧 **This repository is under preparation. The code and data will be made publicly available upon the paper's acceptance. Stay tuned!**
+[![Paper](https://img.shields.io/badge/Paper-npj%20Sci%20Food-green)](https://doi.org/10.1038/s41538-025-00690-7)
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41538--025--00690--7-blue)](https://doi.org/10.1038/s41538-025-00690-7)
 
 ## 📌 Overview
 
-This repository will contain the source code, pretrained models, and datasets associated with our paper:
+This repository contains the source code, pretrained models, and datasets associated with our paper:
 
-**"Phenotypic Feature-Based Identification of Tea Geographical Origin Using Lightweight Deep Learning"**  
+**"Phenotypic Feature-Based Identification of Tea Geographical Origin Using Lightweight Deep Learning"** *Published in npj Science of Food (2026)*
 
-We propose **Origin-Tea**, a compact and high-performance neural network designed for classifying the geographic origin of tea leaves. 
+We propose **Origin-Tea**, a compact and high-performance neural network designed for classifying the geographic origin of tea leaves.
 
-## 🔒 Current Status
+## 📝 Citation
 
-- [x] Paper submitted  
-- [ ] Paper accepted  
-- [ ] Code and dataset released
+If you use this code or dataset in your research, please cite our paper:
 
-The complete release of this project (including source code, data, and model checkpoints) will occur once the paper is officially accepted.
+```bibtex
+Pei, G., Zhou, B., Qian, X. et al. Phenotypic feature-based identification of tea geographical origin using lightweight deep learning. npj Sci Food (2026). [https://doi.org/10.1038/s41538-025-00690-7](https://doi.org/10.1038/s41538-025-00690-7)
 
-## 📬 Stay Updated
+## Full Citation:
+Pei, G., Zhou, B., Qian, X. et al. Phenotypic feature-based identification of tea geographical origin using lightweight deep learning. npj Sci Food (2026). https://doi.org/10.1038/s41538-025-00690-7
 
-Please **star** or **watch** this repository to receive notifications when the code and dataset are released.
+## 🚀 Status & Availability
+[x] Paper Accepted & Published
 
-For inquiries, contact:  
-Author: [Guoquan Pei]
-Email: [peiguoquan@outlook.com]
-Affiliation: [College of Big Data, Yunnan Agricultural University, Kunming, China.]
+[ ] Code & Dataset Upload (In Progress 🔄)
 
+Note: The paper has been officially published. The code, model checkpoints, and datasets are currently being organized and will be uploaded gradually. Please check back soon for updates.
+
+## 📬 Contact
+For inquiries regarding the paper or the repository, please contact:
+
+Author: Guoquan Pei
+
+Email: peiguoquan@outlook.com
+
+Affiliation: College of Big Data, Yunnan Agricultural University, Kunming, China.
 
 ## 📄 License
-
-The license will be announced upon the official release.
+The license details will be updated upon the complete release of the project files.
