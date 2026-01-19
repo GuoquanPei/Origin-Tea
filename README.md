@@ -15,7 +15,7 @@ We propose **Origin-Tea**, a compact and high-performance neural network designe
 
 If you use this code or dataset in your research, please cite our paper:
 
-```bibtex
+```bibtex'''
 Pei, G., Zhou, B., Qian, X. et al. Phenotypic feature-based identification of tea geographical origin using lightweight deep learning. npj Sci Food (2026). [https://doi.org/10.1038/s41538-025-00690-7](https://doi.org/10.1038/s41538-025-00690-7)
 
 ## Full Citation:
