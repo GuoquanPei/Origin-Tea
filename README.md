@@ -23,7 +23,7 @@ If you use this code or dataset in your research, please cite our paper:
   year    = {2026},
   doi     = {10.1038/s41538-025-00690-7}
 }
-```bibtex
+```
 
 ## Full Citation:
 Pei, G., Zhou, B., Qian, X. et al. Phenotypic feature-based identification of tea geographical origin using lightweight deep learning. npj Sci Food (2026). https://doi.org/10.1038/s41538-025-00690-7
