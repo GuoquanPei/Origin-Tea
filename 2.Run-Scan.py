@@ -1,14 +1,3 @@
-''''
-所有模型加载在get_model_instance.py中进行加载
-在args.models选择训练所需要模型
-
-对于同一折的数据，避免了反复加载数据
-而是加载好每一折数据，运行所有模型
-如果不需要运行交叉验证，只需要选择一折进行训练即可
-
-所有结果存储在results文件夹下，包括对应的pth文件
-'''
-
 import argparse
 import matplotlib.pyplot as plt
 import time
@@ -45,7 +34,7 @@ parser.add_argument('--models', type=str,
                         # 'ghostnetv3,'
                         # 'inceptionnext_small,resnet50,vgg16,mobilenetv4_small,'
                         # 'mobilenetv3_small,mobilenetv3_tea_s1_0mb,mobilenetv3_tea_s1s2_3mb,mobilenetv3_tea_0mb'
-                        # 消融实验
+                
                         # 'mobilenetv3_tea_0mb,mobilenetv3_tea_1mb,mobilenetv3_tea_2mb,'
                         # 'mobilenetv3_tea_3mb,mobilenetv3_tea_4mb,mobilenetv3_tea_5mb,'
                         # 'mobilenetv3_tea_6mb,mobilenetv3_tea_7mb,mobilenetv3_tea_8mb,mobilenetv3_tea_9mb,'
