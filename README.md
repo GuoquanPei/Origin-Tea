@@ -35,6 +35,12 @@ Pei, G., Zhou, B., Qian, X. et al. Phenotypic feature-based identification of te
 
 Note: The paper has been officially published. The code, model checkpoints, and datasets are currently being organized and will be uploaded gradually. Please check back soon for updates.
 
+## 🚀 Status & Availability
+[x] Paper Accepted & Published
+
+[x] Code & Dataset Upload
+
+
 ## 📬 Contact
 For inquiries regarding the paper or the repository, please contact:
 
@@ -45,4 +51,4 @@ Email: peiguoquan@outlook.com
 Affiliation: College of Big Data, Yunnan Agricultural University, Kunming, China.
 
 ## 📄 License
-The license details will be updated upon the complete release of the project files.
+The project is open-sourced under the MIT License. See the LICENSE file for details.
