@@ -30,12 +30,6 @@ If you use this code or dataset in your research, please cite our paper:
 ## Full Citation:
 Pei, G., Zhou, B., Qian, X. et al. Phenotypic feature-based identification of tea geographical origin using lightweight deep learning. npj Sci Food (2026). https://doi.org/10.1038/s41538-025-00690-7
 
-## 🚀 Status & Availability
-[x] Paper Accepted & Published
-
-[ ] Code & Dataset Upload (In Progress 🔄)
-
-Note: The paper has been officially published. The code, model checkpoints, and datasets are currently being organized and will be uploaded gradually. Please check back soon for updates.
 
 ## 🚀 Status & Availability
 [x] Paper Accepted & Published
