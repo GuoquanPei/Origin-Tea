@@ -11,6 +11,8 @@ This repository contains the source code, pretrained models, and datasets associ
 
 We propose **Origin-Tea**, a compact and high-performance neural network designed for classifying the geographic origin of tea leaves.
 
+**Note on Data Availability**: Due to requirements for subsequent research, only 30% of the dataset is currently open-sourced.
+
 ## 📝 Citation
 
 If you use this code or dataset in your research, please cite our paper:
